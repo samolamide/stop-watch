@@ -238,7 +238,7 @@ body {
     background: var(--text-color);
 }
 
-/* Snow falling animation - CSS only */
+/* Snow falling animation  */
 .snow-container {
     position: fixed;
     top: 0;
